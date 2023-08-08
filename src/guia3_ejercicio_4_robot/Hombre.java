@@ -1,4 +1,5 @@
 package guia3_ejercicio_4_robot;
+/*Esto es un comentario de John DAvid MOlina*/
 
 import java.util.Scanner;
 
