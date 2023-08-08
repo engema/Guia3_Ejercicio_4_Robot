@@ -12,7 +12,7 @@ public class Guia3_Ejercicio_4_Robot {
         
         Bateria bateria1=new Bateria(1000);
         
-        Robot robot1=new Robot("Tito",bateria1);
+        Robot robot1=new Robot("Enrique",bateria1);
         
         Hombre hombre1=new Hombre(robot1);
         Hombre hombre2=new Hombre(robot1);
